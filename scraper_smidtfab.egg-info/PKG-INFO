@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: scraper-smidtfab
+Version: 0.0.1
+Summary: A package to scrape articles from various sources including newspapers and social media
+Home-page: https://github.com/smidtfab/scraper
+Author: Fabian Schmidt
+Author-email: imp.fsch@gmail.com
+License: UNKNOWN
+Description: # scraper
+        
+        A package to scrape articles from various sources including newspapers and social media
+        
+        As of now the following sources are included:
+        Newspapers:
+        - elpais
+        - new york times
+        
+        Social media:
+        - reddit
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

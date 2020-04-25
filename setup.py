@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="scraper-smidtfab", # Replace with your own username
     version="0.0.1",
-    author="Fabian Schmidt",
+    author="Fabian",
     author_email="imp.fsch@gmail.com",
     description="A package to scrape articles from various sources including newspapers and social media",
     long_description=long_description,
